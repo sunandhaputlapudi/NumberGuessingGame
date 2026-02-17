@@ -14,19 +14,6 @@ This project is an excellent example of basic Java programming concepts such as 
 - 🏁 Tracks the number of attempts.
 - 👾 Simple and beginner-friendly Java code.
 -
--   📋 Table of Contents
-
-- [Demo](#demo)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [How to Run](#how-to-run)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 📺 Demo
 Guess a number between 1 and 100:
 
@@ -42,7 +29,7 @@ Correct! 🎉 You've guessed the number in 7 tries.
 This project is built with:
 
 - **Java**
-- 
+
 ## 🚀 Getting Started
 
 ### 🧾 Prerequisites
@@ -52,14 +39,10 @@ Before you begin, make sure you have:
 - 🟢 Java installed (JDK 8 or later)
 - 🟢 A code editor or IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
----
-
 git clone https://github.com/sunandhaputlapudi/NumberGuessingGame.git
 
 Navigate to the project folder
-
 cd NumberGuessingGame
-
 Compile the Java code:
 javac Main.java
 ▶️ How to Run
@@ -70,7 +53,6 @@ Run the application.
 Enter your guess when prompted.
 The program will tell you if your guess is too high or low.
 Keep guessing until you get it right 🎉
-
 
 📫 Contact:
 sunandhaputlapudi@gmail.com
